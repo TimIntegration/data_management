@@ -1,6 +1,6 @@
 # Data Management Specialization
 
-This repo contains files the [data-analysis specialization at coursera](https://www.coursera.org/specializations/data-analysis)
+This repo contains files for the [data-analysis specialization](https://www.coursera.org/specializations/data-analysis) at coursera:
 
 1. https://www.coursera.org/learn/data-visualization
 2. https://www.coursera.org/learn/data-analysis-tools
